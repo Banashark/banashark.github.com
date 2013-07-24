@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Banashark
+title: Welcome
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
